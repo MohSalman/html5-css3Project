@@ -1,0 +1,6 @@
+.bgClass{
+    background: url(image1.png);
+    color: white;
+    background-size: cover;
+    font-size: 20px;
+}
